@@ -34,18 +34,18 @@ pip install -r requirements.txt
 3. Run:
 
 ```bash
-python rul_comparison.py
+python predictive-maintenance.py
 ```
 
 Results (`results.csv`, `pred_vs_true.png`) are written to `results/`.
-You can also open `rul_comparison.ipynb` in Google Colab (use the badge above) and upload the three files in the first cell.
+You can also open `predictive-maintenance.ipynb` in Google Colab (use the badge above) and upload the three files in the first cell.
 
 ## What is in this repo
 
 | File | Purpose |
 |---|---|
-| `rul_comparison.py` | Full pipeline: data, windows, 4 models, metrics, plot |
-| `rul_comparison.ipynb` | Same code as a Colab notebook with explanations |
+| `predictive-maintenance.py` | Full pipeline: data, windows, 4 models, metrics, plot |
+| `predictive-maintenance.ipynb` | Same code as a Colab notebook with explanations |
 | `REPORT.md` | Written report |
 | `results/` | Results table and plot |
 | `data/` | Put the NASA files here (not included in the repo) |
