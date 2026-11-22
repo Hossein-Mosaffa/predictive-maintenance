@@ -1,0 +1,5 @@
+model,val_rmse,test_rmse,test_rmse_capped,nasa_score,seconds
+Ridge,16.78,16.05,14.66,411.39,0.26
+RandomForest,16.34,17.79,16.5,648.24,13.77
+MLP,13.23,15.0,13.44,338.62,7.68
+LSTM,12.28,14.71,13.57,377.47,26.6
