@@ -123,7 +123,7 @@ Each point in the figure is one test engine. Points on the red dashed line are p
 
 ## 7. Reproducing this work
 
-See the README for setup. The full pipeline is in `rul_comparison.py`, and the Colab notebook runs the same steps.
+See the README for setup. The full pipeline is in `predictive-maintenance.py`, and the Colab notebook runs the same steps.
 
 ## 8. References
 
