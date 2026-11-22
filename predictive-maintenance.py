@@ -1,7 +1,7 @@
 """Remaining Useful Life (RUL) prediction on NASA C-MAPSS FD001.
 Compares Ridge, Random Forest, MLP and LSTM on the same windows of data.
 
-Usage:  python rul_comparison.py            (expects the 3 FD001 files in data/)
+Usage:  python predictive-maintenance.py            (expects the 3 FD001 files in data/)
 """
 import time
 import numpy as np
